@@ -18,3 +18,4 @@ The project uses CNN and LSTM models to extract image and text features, concate
 Key libraries used include Keras with a TensorFlow backend for building and training the deep learning models. NLTK is used for text data preprocessing. The CNN-LSTM model is trained end-to-end to maximize the BLEU score, a common metric for evaluating generated text. Overall, this project exemplifies deep multimodal learning for image captioning.
 
 ## Sample Output
+![](https://github.com/geraldng1407/Image-Caption-Generator/blob/main/Sample%20Output.png)
